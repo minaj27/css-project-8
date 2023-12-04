@@ -1,0 +1,43 @@
+.main{
+    border: 10px solid blue;
+    position: relative;
+    margin: 25px;
+    background-color: aqua;
+    height: 908px;
+    width: 1008px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: 5px solid green;
+}
+.p1{
+    position: absolute;
+    height: 700px;
+    width: 1000px;
+}
+.p2{
+    position: absolute;
+    top: 700px;
+    left: 0px;
+}
+.p3{
+    position: absolute;
+    top: 700px;
+    left: 200px;
+}
+.p4{
+    position: absolute;
+    top: 700px;
+    left: 400px;
+}
+.p5{
+    position: absolute;
+    top: 700px;
+    left: 600px;
+}
+.p6{
+    position: absolute;
+    top: 700px;
+    left: 800px;
+}
